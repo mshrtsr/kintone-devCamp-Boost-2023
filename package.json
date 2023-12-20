@@ -38,7 +38,7 @@
   "devDependencies": {
     "@cybozu/eslint-config": "^20.0.1",
     "@kintone/customize-uploader": "^7.0.5",
-    "@kintone/dts-gen": "^7.0.5",
+    "@kintone/dts-gen": "^8.0.3",
     "@types/node": "^20.8.7",
     "dotenv-cli": "^7.3.0",
     "eslint": "^8.46.0",
